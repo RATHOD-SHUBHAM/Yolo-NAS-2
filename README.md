@@ -11,3 +11,5 @@
 # 2. Car Parts Segmentation
 1] YoloNAS is trained to detect Car Parts.\
 2] The Output from YoloNAS is passed on to SAM to create a mask over the detected part.
+
+<img width="642" alt="huggingFace" src="https://github.com/RATHOD-SHUBHAM/Yolo-NAS-2/assets/58945964/22af2199-37ad-45ac-8fd7-2b8dccdc25c1">
